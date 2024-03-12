@@ -6,7 +6,6 @@ const HowToParticipateSection = () => {
           How to Participate
         </h2>
         <div className="flex flex-col md:flex-row justify-center items-center space-y-8 md:space-y-0 md:space-x-12">
-          <div className="box-border border-t-[1px] border-dashed border-yellow" />
           <div className="relative flex items-center flex-col space-y-8">
             <div className="bg-[#7C2925] rounded-full w-20 h-20 flex items-center justify-center">
               <span className="text-2xl font-montserrat font-semibold">1</span>

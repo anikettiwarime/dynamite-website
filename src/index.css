@@ -7,3 +7,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .clip-path-1 {
+    overflow: visible;
+    clip-path: polygon(100% 0, 100% 90%, 90% 100%, 0 100%, 0 0);
+    z-index: 1;
+  }
+}

@@ -4,3 +4,6 @@ export { default as HeroSection } from "./HeroSection";
 export { default as CircularSpot } from "./CircularSpot";
 export { default as ParticipationGuideSection } from "./ParticipationGuideSection";
 export { default as TierAllocationSection } from "./TierAllocationSection";
+export { default as TeamProfileSection } from "./TeamProfileSection";
+export { default as Footer } from "./Footer";
+export { default as CompanyCTO } from "./CompanyCTO";
